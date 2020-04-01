@@ -4,7 +4,7 @@ import Elevator from './scene-2&4/ElevatorComponent'
 import Window from './scene-2&4/WindowComponent'
 import GraphWall from './scene-2&4/GraphicWallComponent'
 import Plant from './scene-2&4/PlantComponet'
-// import Client from './scene-2&4/ClientComponent'
+import Client from './scene-2&4/ClientComponent'
 import StoryTellerWalking from './scene-2&4/StoryWalkingComponent'
 import StoryTellerMeeting from "./scene-2&4/StoryMeetingComponent";
 import Doors from './scene-2&4/DoorComponent'
@@ -257,7 +257,7 @@ const Scene2 = (props) => {
                 <Doors passClass="door2"/>
                 <Window passClass="window2"/>
                 <StoryTellerMeeting passClass="storyMeeting"/>
-                {/*<Client passClass="client1"/>*/}
+                <Client passClass="client1"/>
                 <GraphWall passClass="graphWall"/>
                 <Plant passClass="plant2"/>
                 <Plant passClass="plant3"/>
