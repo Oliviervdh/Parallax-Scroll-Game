@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "Showpad Regular";
+  src: url("./fonts/ATCShowpad-Regular.woff") format("woff");
+}
+
+body {
+  font-family: 'Showpad Regular';
+  color: #2D2E83;
+}
+
+h2 {
+  font-size: 68px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-size: 24px;
+}

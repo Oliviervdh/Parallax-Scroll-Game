@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "labels": {
+    "settings": {
+      "locale": {
+        "value": "en-GB",
+        "description": "App locale [en-GB]"
+      },
+      "accent_color": {
+        "value": "#2D2E83",
+        "description": "Customize Showpad’s accent color to match your corporate branding"
+      }
+    },
+    "views": {
+      "home": {
+        "title": {
+          "en-GB": {
+            "value": "React boilerplate",
+            "description": "[en-GB]"
+          }
+        }
+      }
+    },
+    "components": {
+
+    }
+  },
+  "contents": {
+
+  }
+}
