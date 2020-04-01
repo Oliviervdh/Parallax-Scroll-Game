@@ -34,7 +34,7 @@ function Scene1(props) {
     if (currentScene === 0 && previousScene === 1) {
       window.scroll(0, 44000)
     }
-    //scenetransition
+    //scenetransitionn
     blackout.style["opacity"] = 0
     transitionScene()
 

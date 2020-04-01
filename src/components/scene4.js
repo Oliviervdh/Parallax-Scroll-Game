@@ -103,7 +103,7 @@ const Scene4 = (props) => {
         transitionScene()
 
         //if coming back, scroll to end of scene
-        if (currentScene === 3 && previousScene === 2) {
+        if (currentScene === 3 && previousScene === 4) {
 
             window.scroll(0, 20845);
             console.log("scroll to end of page: " + window.scrollY)
